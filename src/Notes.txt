@@ -11,3 +11,9 @@ The purpose of this practice is to collaborate as a group in work-like scenario
 Leaders are gonna create a JAVA project and collaborators to their project
 
 Each collaborator (each person) will contribute their own group
+
+git init  -- enables VCS
+git add .   -- adds everything to staging
+git commit -m "add: first commit"  -- is for commiting with a message
+git remote add origin <your_remote_origin>  --  added remote origin (shared the project on Github)
+git push -u origin main  --- we sent the chages to remote
