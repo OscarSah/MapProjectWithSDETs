@@ -31,3 +31,13 @@ Main/develop/master : Your applications base branch are protected
             - if it is a development code our smoke tests are initiated automatically
             - then a person (dev. tester) reviews the code
             - the code is merged to BASE branch
+TABLES:
+
+Employee Table :
+Each Employee ID --- FirstName  --- LastName   -- SSN  ---- Adress --- Salary  ---- Position  --- Contact Number
+      0007            James          Bond         0007007    yudydyyd   2000000    Developer        9745237628
+
+
+
+
+
