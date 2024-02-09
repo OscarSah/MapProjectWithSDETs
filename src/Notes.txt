@@ -1,0 +1,13 @@
+The purpose of this practice is to collaborate as a group in work-like scenario
+
+5 Groups:
+    Gr1 - Oscar, Charos, Reza, Leyli, h, Naima
+    Gr2 - Angel, Busra, Evgeniya, Barno, Sule, Onnipa
+    Gr3 - Cetin, Manal, Leila, Fatma, Jahan,
+    Gr4 - Derya, Filora, Guray, Bouchra, Mukhallad
+    Gr5 - Dilnoz, Tatiana, Moustafa, Burcin, Mukhallad
+
+
+Leaders are gonna create a JAVA project and collaborators to their project
+
+Each collaborator (each person) will contribute their own group
