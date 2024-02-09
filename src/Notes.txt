@@ -24,3 +24,10 @@ git push -u origin main  --- we sent the chages to remote
 2. Executed their coding/automation task and commited to their branch locally
 3. Pushed their branch to remote for pull request and after review by team members merging to main
 4. After merging to main at the remote, we check out local main branch and pull/update the project
+
+Main/develop/master : Your applications base branch are protected
+            - Automated tests that checks code errors / code smells
+            - test that checks branch name, pull request format etc.
+            - if it is a development code our smoke tests are initiated automatically
+            - then a person (dev. tester) reviews the code
+            - the code is merged to BASE branch
